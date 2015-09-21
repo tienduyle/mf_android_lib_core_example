@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MFExample.iml" filepath="$PROJECT_DIR$/MFExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mf_android_lib_core/mf_android_lib_core.iml" filepath="$PROJECT_DIR$/mf_android_lib_core/mf_android_lib_core.iml" />
+    </modules>
+  </component>
+</project>

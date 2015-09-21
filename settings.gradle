@@ -1,0 +1,1 @@
+include ':app', ':mf_android_lib_core'
